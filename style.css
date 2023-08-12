@@ -1,0 +1,18 @@
+.navbar{
+    background-color:#ACC8E5 !important;
+   
+}
+ul li a{
+    color:  #112A46 !important;
+}
+.smit{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.footer{
+    background-color:#112A46 ;
+    color: #ACC8E5;
+    height: 50px;
+    font-size: 2rem;
+}
